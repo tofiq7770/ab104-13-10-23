@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Ab104-13-10-23": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
